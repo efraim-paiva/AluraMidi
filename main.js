@@ -15,7 +15,7 @@ function teclaPuff() {
 }
 
 function teclaSplash() {
-    document.querySelector('#som_tecla_splash').play()
+    document.querySelector('#som_tecla_splash').play();
 }
 
 function teclaToim() {
