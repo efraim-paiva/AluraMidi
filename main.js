@@ -1,1 +1,1 @@
-let listaTeclas = [document.querySelectorAll('.tecla')];
+const listaTeclas = document.querySelectorAll('.tecla');
